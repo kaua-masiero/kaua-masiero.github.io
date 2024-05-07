@@ -34,8 +34,7 @@ p {
 }
 
 #instagram-posts {
-    color: black;
-    background-color: rgb(201, 201, 201);
+    color: yellow;
 }
 
 #line {
@@ -53,7 +52,6 @@ p {
 
 #social {
     color: yellow;
-    background-color: black;
 }
 
 #video {
