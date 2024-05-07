@@ -1,0 +1,61 @@
+body {
+    background-color: rgb(34, 34, 34);
+    font-size: 20px;
+}
+
+h1 {
+    color: #ffffff;
+    font-size: 3em;
+    font-family: serif;
+}
+
+h3 {
+    color: yellow;
+}
+
+a {
+    color: rgb(255, 255, 255);
+}
+
+#minion {
+
+    background-color: black;
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: yellow;
+    font-size: 2em;
+}
+
+p {
+    color: rgb(255, 174, 0);
+    font-size: 1.2em;
+}
+
+#instagram-posts {
+    color: black;
+    background-color: rgb(201, 201, 201);
+}
+
+#line {
+    background-color: rgb(255, 255, 255);
+}
+
+#discord {
+    font-size: 1.4em;
+}
+
+#socials {
+
+    color: white;
+}
+
+#social {
+    color: yellow;
+    background-color: black;
+}
+
+#video {
+    background-color: black;
+}
