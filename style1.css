@@ -58,6 +58,7 @@ p {
     overflow-y: auto;
     overflow-x: auto;
 }
+
 .titles {
     width: 700px;
 }
@@ -90,6 +91,7 @@ p {
 .paragrath2 {
     width: 500px;
 }
+
 .section-title {
     font-size: 28px;
     font-weight: 600;
@@ -136,30 +138,31 @@ p {
 }
 
 #social {
-    margin:auto;
+    margin: auto;
 }
 
 #artwork1 {
     position: absolute;
     z-index: 1;
-    margin-left: -13em;
+    margin-left: -20em;
 }
 
 #artwork2 {
     position: absolute;
     z-index: 2;
     margin-top: auto;
+    margin-left: -7em;
 }
 
 #artwork3 {
     position: absolute;
     z-index: 3;
-    margin-left: 15%;
+    margin-left: 6em;
 }
 
 #artwork4 {
     position: absolute;
     z-index: 4;
-    margin-left: 30%;
-    
+    margin-left: 19em;
+
 }
